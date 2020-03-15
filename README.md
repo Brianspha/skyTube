@@ -1,7 +1,6 @@
 # SkyTube
 
-This is a proof of concept youtube clone hosted on skynet i was planning on making it a DApp but decided against it buut you can find the contract which was going to be used under the contracts folder
-
+This is a proof of concept youtube clone hosted on skynet i was planning on making it a DApp but decided against it
 
 ### Screenshot
 
@@ -10,7 +9,7 @@ This is a proof of concept youtube clone hosted on skynet i was planning on maki
 
 ### Web Page
 
-[GitHubPages](https://brianspha.github.io/SkyTube-/) <br /><br />
+[GitHubPages](https://brianspha.github.io/skyTube/) <br /><br />
 [SkyLink](https://siasky.net/AADaHwJceThvyeNJflQxKOwZ2I5FkffpAfNYyhGRfkas3A#/popular)
 
 ## Project setup
