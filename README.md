@@ -10,7 +10,7 @@ This is a proof of concept youtube clone hosted on skynet i was planning on maki
 ### Web Page
 
 [GitHubPages](https://brianspha.github.io/skyTube/) <br /><br />
-[SkyLink](https://siasky.net/AADaHwJceThvyeNJflQxKOwZ2I5FkffpAfNYyhGRfkas3A#/popular)
+[SkyLink](https://siasky.net/AAC5YmBVrAUffINDXrty7fDc2Qznxks-zR-L_vcPwwDfXA)
 
 ## Project setup
 ```
